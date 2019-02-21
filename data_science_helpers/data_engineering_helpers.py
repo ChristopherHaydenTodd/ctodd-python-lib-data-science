@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
-    Library for Dealing with redundant Data
-    Engineering Tasks. This will include
-    functions for tranforming dictionaries and
-    PANDAS Dataframes
+    Library for Dealing with redundant Data Engineering Tasks. This will include
+    functions for tranforming dictionaries and PANDAS Dataframes
 """
 
 # Python Library Imports
