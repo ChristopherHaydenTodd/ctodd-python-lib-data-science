@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-    Library for aiding the understanding and investigation
-    into the data provided for modeling. These helpers
-    will help explain, graph, and explore the data
+    Library for aiding the understanding and investigation into the data provided
+    for modeling. These helpers will help explain, graph, and explore the data
 """
 
 # Python Library Imports
