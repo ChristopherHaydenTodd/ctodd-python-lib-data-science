@@ -1,8 +1,8 @@
-# Christopher H. Todd's PROJECT_STRING_NAME
+# Christopher H. Todd's Python Library For Data Engineering and Data Science
 
-The PROJECT_GIT_NAME project is responsible for ...
+The ctodd-python-lib-data-science project is responsible for engineering data, cleaning data, preparing data, performing data science tasks, and storing models.
 
-The library ...
+The library relies on PANDAS, Numpy, Pickle, and other common Python data science libs.
 
 ## Table of Contents
 
